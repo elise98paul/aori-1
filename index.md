@@ -1,39 +1,33 @@
-## Welcome to GitHub Pages
+## Bienvenue sur mon site
 
-You can use the [editor on GitHub](https://github.com/olivierthirion/aori/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Vous pouvez retrouver la page d'accueil créée par GitHub déplacée [ici](welcome.md).
+Ce site vous présente un exemple de dossier documentaire.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sur cette page d'accueil vous présenterez votre sujet en quelques lignes la technologie choisie ainsi que l'objectif de ces pages, mais aussi que vous expliquerez à votre lecteur la structure du dossier documentaire.
 
-[Ma page text](https://github.com/olivierthirion/aori/edit/master/test.md)
+### Le dossier documentaire : les étapes
 
-### Markdown
+1. Sur base du thème choisi, réaliser des recherches documentaires de manière à identifier les documents à consulter
+2. Consulter les documents
+3. Sélectionner les documents les plus pertinents (quelques critères que vous pourriez prendre en compte : qualification des auteurs, âge des documents, etc.)
+4. Obtenir la version PDF du document (/du passage concerné dans le document), en le scannant si nécessaire s'il s'agit d'un document papier / faire un lien vers ce document s'il s'agit d'une page Web
+5. Classer les documents selon un plan de classement propre au domaine
+  * Dans un premier temps, dans votre tête / sous forme de carte conceptuelle (conseillé) / ... 
+      * Posez-vous la question : si vous deviez présenter de manière complète le sujet choisi, comment organiseriez-vous les informations ? 
+      * Pour vous aider : la définition du sujet, les cas d'utilisation, les explications techniques, son utilisation en bibliothèque, etc.
+  * Ensuite, en créant dans GitHub Pages les pages qui correspondent aux différentes "classes" de votre plan de classement. Vous pourriez logiquement avoir des classes et des sous-classes.
+6. Les référencer correctement, selon le modèle appliqué à l'IESSID
+7. Rédiger une introduction au dossier documentaire présentant brièvement le thème choisi (il ne s'agit pas de la synthèse !) ainsi que l'organisation générale du dossier
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Et ensuite ?
 
-```markdown
-Syntax highlighted code block
+Logiquement, les informations issues des documents qui constituent votre dossier documentaire seront utiles pour la réalisation de votre synthèse documentaire. Il s'agira là de réaliser un état des connaissance sur le sujet choisi dans un document LaTeX.
 
-# Header 1
-## Header 2
-### Header 3
+### Besoin d'aide ?
 
-- Bulleted
-- List
+Ce site Web n'utilise pas les balises HTML mais repose sur Markdown
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/olivierthirion/aori/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Quelques ressources
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) (la page "officielle" sur le fonctionnement de Markdown dans GitHub Pages, en anglais)
+* [La syntaxe Markdown](https://docs.framasoft.org/fr/grav/markdown.html)
+* [Markdown](https://fr.wikipedia.org/wiki/Markdown)
