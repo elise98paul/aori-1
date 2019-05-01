@@ -5,6 +5,17 @@ Ce site vous présente un exemple de dossier documentaire.
 
 Sur cette page d'accueil vous présenterez votre sujet en quelques lignes la technologie choisie ainsi que l'objectif de ces pages, mais aussi que vous expliquerez à votre lecteur la structure du dossier documentaire.
 
+Vous créerez ensuite des liens menant vers les différentes pages que vous aurez créé, chaque page représentant une "classe" de votre plan de classement. Vous utiliserez ici la syntaxe Markdown pour représenter la structure de votre plan de classement, par exemple en le présentant sous forme de liste :
+
+1. [Ma première classe](classse1.md)
+2. Ma deuxième classe
+ 1. Une sous-classe
+ 2. Une seconde sous-classe
+ 3. ...
+3. Ma troisième classe
+4. Ma quatrième classe
+5. ...
+
 ### Le dossier documentaire : les étapes
 
 1. Sur base du thème choisi, réaliser des recherches documentaires de manière à identifier les documents à consulter
