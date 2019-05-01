@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/olivierthirion/aori/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-test.md
+[Ma page text](https://github.com/olivierthirion/aori/edit/master/test.md)
 
 ### Markdown
 
