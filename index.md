@@ -9,9 +9,9 @@ Vous créerez ensuite des liens menant vers les différentes pages que vous aure
 
 1. [Ma première classe](classse1.md)
 2. Ma deuxième classe
- 1. Une sous-classe
- 2. Une seconde sous-classe
- 3. ...
+      1. Une sous-classe
+      2. Une seconde sous-classe
+      3. ...
 3. Ma troisième classe
 4. Ma quatrième classe
 5. ...
@@ -23,7 +23,7 @@ Vous créerez ensuite des liens menant vers les différentes pages que vous aure
 3. Sélectionner les documents les plus pertinents (quelques critères que vous pourriez prendre en compte : qualification des auteurs, âge des documents, etc.)
 4. Obtenir la version PDF du document (/du passage concerné dans le document), en le scannant si nécessaire s'il s'agit d'un document papier / faire un lien vers ce document s'il s'agit d'une page Web
 5. Classer les documents selon un plan de classement propre au domaine
-  * Dans un premier temps, dans votre tête / sous forme de carte conceptuelle (conseillé) / ... 
+      * Dans un premier temps, dans votre tête / sous forme de carte conceptuelle (conseillé) / ... 
       * Posez-vous la question : si vous deviez présenter de manière complète le sujet choisi, comment organiseriez-vous les informations ? 
       * Pour vous aider : la définition du sujet, les cas d'utilisation, les explications techniques, son utilisation en bibliothèque, etc.
   * Ensuite, en créant dans GitHub Pages les pages qui correspondent aux différentes "classes" de votre plan de classement. Vous pourriez logiquement avoir des classes et des sous-classes.
