@@ -7,7 +7,7 @@ Sur cette page d'accueil vous présenterez votre sujet en quelques lignes la tec
 
 Vous créerez ensuite des liens menant vers les différentes pages que vous aurez créé, chaque page représentant une "classe" de votre plan de classement. Vous utiliserez ici la syntaxe Markdown pour représenter la structure de votre plan de classement, par exemple en le présentant sous forme de liste :
 
-1. [Ma première classe](classse1.md)
+1. [Définitions](definitions.md)
 2. Ma deuxième classe
       1. Une sous-classe
       2. Une seconde sous-classe
