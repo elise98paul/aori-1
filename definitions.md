@@ -20,5 +20,7 @@ Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, 
 
 ### Présentation d'un autre document
 
+![Logo IESSID](/images/HE2B-16-17150-Logo_IESSID.png)
+
 ### Etc.
 
