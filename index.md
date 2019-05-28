@@ -21,7 +21,7 @@ Vous créerez ensuite des liens menant vers les différentes pages que vous aure
 1. Sur base du thème choisi, réaliser des recherches documentaires de manière à identifier les documents à consulter
 2. Consulter les documents
 3. Sélectionner les documents les plus pertinents (quelques critères que vous pourriez prendre en compte : qualification des auteurs, âge des documents, etc.)
-4. Obtenir la version PDF du document (/du passage concerné dans le document), en le scannant si nécessaire s'il s'agit d'un document papier / faire un lien vers ce document s'il s'agit d'une page Web. Vous pouvez aussi récupérer une image (jpeg, png, etc.) ou recopier un passage, etc.
+4. Obtenir la version PDF du document (/du passage concerné dans le document), en le scannant si nécessaire s'il s'agit d'un document papier / faire un lien vers ce document s'il s'agit d'une page Web. Vous pouvez aussi récupérer une image (jpeg, png, etc.) ou recopier un passage, un abstract, etc.
 5. Classer les documents selon un plan de classement propre au domaine
       * Dans un premier temps, dans votre tête / sous forme de carte conceptuelle (conseillé) / ... 
       * Posez-vous la question : si vous deviez présenter de manière complète le sujet choisi, comment organiseriez-vous les informations ? 
