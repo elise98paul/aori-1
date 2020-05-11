@@ -3,7 +3,7 @@
 ### Via un tableau simple :
 
 | Mon texte  |
-| :--------------- |
+| :--------- |
 
 ### Ou complexe :
 
