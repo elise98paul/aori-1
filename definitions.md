@@ -16,12 +16,12 @@ Une ou deux lignes qui expliquent ce qu'on retrouve dans cette classe. Ensuite, 
 
 | Académie Française. "Bibliothèque" [en ligne]. In *Dictionnaire de l'Académie française*. 9e édition (consulté le 1er mai 2019). En ligne : [https://www.dictionnaire-academie.fr/article/A9B0999](https://www.dictionnaire-academie.fr/article/A9B0999) |
 | :--------------------------------------------------------------------------------------------------------------------------- |
-| ![Définition de l'académie](images/academie.png)                                                                            |
+| ![Définition de l'académie](images/academie.png)                                                                             |
 
 
-| Wikitionnaire. "Bibliothèque" [en ligne]. In *Wikitionnaire*. Edition 24/02/2020 (consulté le 11 mai 2020). En ligne : [https://fr.wiktionary.org/wiki/biblioth%C3%A8que](https://fr.wiktionary.org/wiki/biblioth%C3%A8que) |
+| Wikitionnaire. "Bibliothèque" [en ligne]. In *Wikitionnaire*. Edition 24/02/2020 (consulté le 11 mai 2020). En ligne : [https://fr.wiktionary.org/wiki/biblioth%C3%A8que](https://fr.wiktionary.org/wiki/biblioth%C3%A8que)                           |
 | :--------------------------------------------------------------------------------------------------------------------------- |
-| ![Définition de Wikitionnaire](images/wiktionnaire.png)                                                                            |
+| ![Définition de Wikitionnaire](images/wiktionnaire.png)                                                                      |
 
 
 ### Etc.
